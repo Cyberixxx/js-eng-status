@@ -12,6 +12,7 @@
 
 ###My Team
 
+* [CyberiX](https://github.com/Cyberixxx/js-eng-status)
 * [Wall E ](https://github.com/walle010101/js-eng-status)
 * [Vasya](vvv)
 * [Masha](mmm)
